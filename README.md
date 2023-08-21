@@ -1,7 +1,9 @@
 # CÓDIGOS VITE
 
     Crear carpeta donde quiero guardar el proyecto vite
-    abrir esta carpeta en vscode
-    npm i ---- (Inicializar proyecto vite en esta carpeta)
-    code . --- (Abre la carpeta del proyecto vite en vscode automáticaamente)
+    cd arrastrar-carpeta-a-terminal ------ (Abrir esta carpeta en la terminal)
+    npm create vite@latestInstalar -----  lutima versión de vite 
+    cd nombre-de-carpeta-code ---- (Ir a a travez de la terminal a la carpeta de vite anteriormente creada en code)
+    code . ------ (Abrir la carpeta vite en code)
+   
 
